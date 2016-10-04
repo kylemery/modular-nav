@@ -51,6 +51,11 @@ ul {
   color: white;
 }
 
+li:hover a {
+  background-color: #0074d9;
+  color: white;
+}
+
 @media only screen and (min-width: 38em) {
 
   h1 {
