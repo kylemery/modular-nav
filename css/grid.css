@@ -22,12 +22,6 @@
   align-items: flex-end;
 }
 
-.grid-middle {
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
-}
-
 .grid-stretch {
   -webkit-align-items: stretch;
   -ms-align-items: stretch;
